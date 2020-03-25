@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Warhammer Reforged 3" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="304"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Demonios_del_Caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del Caos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Elfos_Oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos Oscuros" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Hombres_Lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres_Lagarto" dataBattleScribeVersion="2.03" dataRevision="4"/>
+  </dataIndexEntries>
+</dataIndex>
